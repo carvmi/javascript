@@ -1,15 +1,18 @@
 # Javascript - Atividades 
 
-- O objeto matemático (Math) em JavaScript fornece várias constantes e métodos para realizar operações matemáticas. Ao contrário do objeto de data, ele não possui construtores. Todos os métodos e propriedades podem ser usados ​​sem criar um objeto Math primeiro. Vamos ver a lista de alguns métodos JavaScript Math:
-● cos():  Retorna o cosseno do número informado.
+## métodos Math
 
-● max(): Retorna o valor máximo dos números dados.
+1. O objeto matemático (Math) em JavaScript fornece várias constantes e métodos para realizar operações matemáticas. Ao contrário do objeto de data, ele não possui construtores. Todos os métodos e propriedades podem ser usados ​​sem criar um objeto Math primeiro. Vamos ver a lista de alguns métodos JavaScript Math:
+  ● cos():  Retorna o cosseno do número informado.
 
-● min(): Retorna o valor mínimo dos números informados.
+  ● max(): Retorna o valor máximo dos números dados.
 
-● pow(): Retorna o valor da base elevado ao expoente.
+  ● min(): Retorna o valor mínimo dos números informados.
 
-● random(): Retorna um número aleatório entre 0 (inclusivo) e 1 (exclusivo).
+  ● pow(): Retorna o valor da base elevado ao expoente.
 
-● sqrt(): Retorna a raiz quadrada do número dado.
-Implemente o código em JavaScript que aplique 4 (quatro) dos métodos apresentados: cos(), max(), min(), pow(), random() ou sqrt().
+  ● random(): Retorna um número aleatório entre 0 (inclusivo) e 1 (exclusivo).
+
+  ● sqrt(): Retorna a raiz quadrada do número dado. 
+  
+  Implemente o código em JavaScript que aplique 4 (quatro) dos métodos apresentados: cos(), max(), min(), pow(), random() ou sqrt().
