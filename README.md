@@ -16,3 +16,15 @@
   - sqrt(): Retorna a raiz quadrada do número dado. 
   
   - Implemente o código em JavaScript que aplique 4 (quatro) dos métodos apresentados: cos(), max(), min(), pow(), random() ou sqrt().
+
+2. Implemente um código em JavaScript em que uma matriz que contenha 4 linhas e 5 colunas apresente o seguinte formato:
+
+   - Na primeira linha os 5 primeiros múltiplos do número 2.
+
+   - Na segunda linha os 5 primeiros múltiplos do número 3.
+
+   - Na terceira linha os 5 primeiros múltiplos do número 4.
+
+   - Na quarta linha os 5 primeiros múltiplos do número 5.
+
+   - Nesse exercício você deverá utilizar a estrutura de repetição para popular a matriz de forma dinâmica, ou seja, os valores não devem ser digitados (e/ou informados) de forma manual.
