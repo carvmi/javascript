@@ -28,3 +28,5 @@
    - Na quarta linha os 5 primeiros múltiplos do número 5.
 
    - Nesse exercício você deverá utilizar a estrutura de repetição para popular a matriz de forma dinâmica, ou seja, os valores não devem ser digitados (e/ou informados) de forma manual.
+   
+## bracket notation x dot notation
